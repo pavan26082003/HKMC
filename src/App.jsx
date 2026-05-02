@@ -33,10 +33,9 @@ function HomePage() {
         {/* reviews */}
         <Testimonials />
 
+ <MDMessage /> 
 
-        {/* <MDMessage /> */}
-
-        {/* <Calculator /> */}
+   <Calculator /> 
 
 
 
@@ -52,12 +51,12 @@ function HomePage() {
 
 
         {/* get in touch section */}
-        {/* <LeadCapture />    */}
+        <LeadCapture />   
 
       </main>
 
-      {/* <Footer /> */}
-      {/* <FloatingButtons /> */}
+      <Footer /> 
+       <FloatingButtons /> 
     </div>
   )
 }
